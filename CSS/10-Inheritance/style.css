@@ -1,0 +1,20 @@
+ul {
+    color: rgb(220, 139, 130);
+}
+
+span {
+    color: firebrick;
+}
+
+div {
+    color: teal;
+    border: 1px solid midnightblue;
+}
+
+p {
+    border: inherit;
+}
+
+h1 {
+    border: inherit;
+}
