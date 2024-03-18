@@ -1,0 +1,38 @@
+h1 {
+    color: rgb(4, 26, 92);
+    font-size: 49px;
+    letter-spacing: 5px;
+    word-spacing: 40px;
+}
+
+p {
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 15px;
+    text-align: center;
+    line-height: 12px;
+}
+
+h2 {
+    text-transform: uppercase;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
+
+a:visited {
+    color: blue;
+}
+
+a:hover {
+    text-decoration: underline;
+    /* cursor: wait; */
+}
+
+/* BONUS TEXT SHADOW */
+
+h1 {
+    text-shadow: indigo 2px 5px;
+}

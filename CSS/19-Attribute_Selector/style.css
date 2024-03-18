@@ -1,0 +1,11 @@
+input[type='text'] {
+    border: 2px solid rebeccapurple;
+}
+
+input[type='number'] {
+    border: 2px solid palevioletred;
+}
+
+input[type='checkbox'] {
+    margin-right: 30px
+}

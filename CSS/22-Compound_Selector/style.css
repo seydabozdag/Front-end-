@@ -1,0 +1,43 @@
+input[type='text'] {
+    border: 2px solid rebeccapurple;
+}
+
+input[type='number'] {
+    border: 2px solid palevioletred;
+}
+
+input[type='checkbox'] {
+    margin-right: 30px
+}
+
+/* h1, h2 {
+    color: rgb(4, 100, 91);
+}
+
+#summaryList, #summary, .title {
+    color: orange;
+} */
+
+
+/* ul span{  // Descendant Combinator
+    color: rgb(136, 43, 136); 
+    font-weight: bold;
+} */
+
+
+/* Child Combinator */
+ul > span {  
+    color: blueviolet;
+}
+
+ol > li {
+    border: 1px solid palevioletred;
+}
+
+ul#summaryList {
+    color: rgb(133, 1, 100);
+}
+
+h2#summary { 
+    color: rgb(73, 148, 73);
+}
