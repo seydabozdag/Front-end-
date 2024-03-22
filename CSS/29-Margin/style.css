@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+  }
+  
+  h1 {
+    border: 10px solid red;
+    margin: 50px;
+  }
+  a {
+    border: 5px solid blue;
+    text-align: center;
+    padding: 20px;
+    
+  }
+  

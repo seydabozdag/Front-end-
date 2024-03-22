@@ -1,0 +1,12 @@
+div {
+    width: 150px;
+    height: 150px;
+    border: 10px solid rgb(43, 3, 33);
+    background-color: rgb(12, 12, 214);
+    margin: 30px;
+    padding: 20px;
+  }
+  #title {
+    box-sizing: border-box;
+  }
+  

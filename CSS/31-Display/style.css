@@ -1,0 +1,25 @@
+.inline {
+    display: inline;
+    background-color: rgb(55, 111, 160);
+    border: 2px solid rgb(221, 52, 94);
+    width: 100px;
+    height: 100px;
+  }
+  .inlineBlock {
+    display: inline-block;
+    background-color: rgb(55, 111, 160);
+    border: 2px solid rgba(221, 52, 94);
+    width: 100px;
+    height: 100px;
+  }
+  .block {
+    display: block;
+    background-color: rgb(55, 111, 160);
+    border: 2px solid rgb(221, 52, 94);
+    width: 100px;
+    height: 100px;
+  }
+  .none {
+    display: none;
+  }
+  
