@@ -1,0 +1,13 @@
+p {
+    border: solid rgb(122, 56, 227);
+    background-color: rgb(235, 235, 107);
+    margin: 35px;
+    font-size: 30px;
+    position: static;
+
+    /* Position static'te herhangi  bir işlem veremeyiz. örn.
+     top: 40px; 
+    */
+            
+
+}
