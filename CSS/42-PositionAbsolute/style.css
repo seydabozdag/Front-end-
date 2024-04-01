@@ -1,0 +1,16 @@
+.box {
+    background-color: rgb(18, 37, 72);
+    width: 200px;
+    height: 200px;
+    margin: 50px;
+    position: relative;
+  }
+  
+  .box span {
+    background-color: pink;
+    position: absolute;
+    top: 80px;
+    /* left: 30px; */
+    right: 0;
+  }
+  
