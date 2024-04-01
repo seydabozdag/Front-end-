@@ -1,0 +1,13 @@
+p {
+    border: 1px solid blueviolet;
+    background-color: pink;
+    margin: 25px;
+    font-size: 20px;
+    
+}
+
+#middle {
+    position: relative;
+    /* top: 30px;
+    left: 30px; */
+}
