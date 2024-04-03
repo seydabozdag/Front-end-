@@ -1,0 +1,18 @@
+.box1 {
+    width: 500px;
+    height: 500px;
+    border: 2px solid red;
+    background-image: url('https://images.unsplash.com/photo-1711267115677-21f5d3aaa479?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDk2fGJvOGpRS1RhRTBZfHxlbnwwfHx8fHw%3D');
+    background-size: cover;
+    background-position: top center;
+}
+
+.box2 {
+    width: 300px;
+    height: 300px;
+    border: 2px solid red;
+    background-image: url('https://images.unsplash.com/photo-1654962900838-bd872b71dfa3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDQzfGJvOGpRS1RhRTBZfHxlbnwwfHx8fHw%3D');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
