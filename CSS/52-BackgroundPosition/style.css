@@ -1,0 +1,10 @@
+.box {
+    width: 500px;
+    height: 500px;
+    border: 1px solid red;
+    background-image: url('https://static1.colliderimages.com/wordpress/wp-content/uploads/2020/12/lord-of-the-rings-rivendell-4k-social.jpg');
+    /* background-size: contain; */
+    background-size: cover;
+    background-position: center;
+    /* background-position: top right; */
+}
