@@ -1,0 +1,12 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: palevioletred;
+    transition: all 2s ease-in-out;
+}
+
+.box:hover {
+    color: blueviolet;
+    background-color: palegreen; 
+    transform: translate(100px, 100px);
+}
