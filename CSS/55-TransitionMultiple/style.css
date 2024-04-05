@@ -1,0 +1,15 @@
+.btn {
+    border: 5px solid blueviolet;
+    padding: 20px 30px;
+    margin-top: 44px;
+    display: block;
+    width: 50px;
+    /* transition: color 2s, background-color 2s; */
+    transition: all 2s;
+}
+
+.btn:hover {
+    background-color: pink;
+    color: rgb(160, 19, 45);
+    border-color: rgb(230, 79, 9);
+}
