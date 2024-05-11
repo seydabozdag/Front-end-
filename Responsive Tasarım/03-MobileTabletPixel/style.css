@@ -1,0 +1,25 @@
+body {
+    background-color: purple;
+}
+
+
+@media only screen and (max-width: 1024px) {
+    body {
+        background-color: paleturquoise;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    body {
+        background-color: palegoldenrod;
+    }
+
+}
+
+@media only screen and (max-width: 480px) {
+    body {
+        background-color: palevioletred;
+    }
+
+}
+
